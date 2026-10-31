@@ -1,3 +1,13 @@
+💫 Hi 👋, I'm Nand kishor
+A passionate AI Engineer 
+
+Email Me 👉 ✉️ rrahulkuniyal80@gmail.com For Project or Anything Else. 😊😊
+🌱 I’m currently learning: RAG
+📫 How to reach me: rrahulkuniyal80@gmail.com
+😄 Pronouns: Nandu
+⚡ Fun fact: Don't know
++
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kuniyalrahul80) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rrahulkuniyal80@gmail.com) 
